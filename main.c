@@ -702,7 +702,7 @@ const int8_t MESSAGE_FILE_DELETED[] PROGMEM = "Deleted file.";
 const int8_t MESSAGE_SAVING[] PROGMEM = "Saving...";
 const int8_t MESSAGE_FILE_SAVED[] PROGMEM = "Saved file.";
 const int8_t MESSAGE_RUNNING[] PROGMEM = "Running...";
-const int8_t MESSAGE_WELCOME[] PROGMEM = "DUO Travel OS\nVersion 1.0";
+const int8_t MESSAGE_WELCOME[] PROGMEM = "ChipOS\nVersion 1.0";
 
 const int8_t ERROR_MESSAGE_BAD_START_OF_EXPRESSION[] PROGMEM = "ERROR: Bad\nstart of\nexpression.";
 const int8_t ERROR_MESSAGE_BAD_END_STATEMENT[] PROGMEM = "ERROR: Bad\nend statement.";
